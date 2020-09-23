@@ -1,0 +1,32 @@
+/** .text-primary {
+    color: #f4623a !important;
+  }
+  
+  a.text-primary:hover, a.text-primary:focus {
+    color: #d6370c !important;
+  }
+
+$pink-color: #eeaeca ;
+$pink-color-dark: #d975a0
+$blue-color:  #81b9bf;  **/
+/** buttoms **/
+.btn {
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.btn-xl {
+  padding: 1.25rem 2.25rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 10rem;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  border-radius: 2rem !important;
+  opacity: 0.85 !important;
+}
