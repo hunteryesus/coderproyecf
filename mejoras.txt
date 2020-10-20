@@ -1,6 +1,0 @@
-- Se agrega el logo como icono de pestaña
-- Se agrega 
-   -tittle
-   -meta descripcion
-   -keywords
-    
