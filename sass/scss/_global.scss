@@ -4,6 +4,16 @@ html {
   height: 100%;
 }
 
+@font-face {
+  font-family: "sweetp";
+  src: url("../../webfonts/sweetp.otf");
+}
+.text-logo {
+  font-family: "sweetp" !important; 
+  font-size: 1.6875rem !important;
+  font-weight: normal;
+}
+
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
@@ -28,13 +38,4 @@ hr.light {
 }
 .page-section {
     padding: 8rem 0;
-}
-@font-face {
-  font-family: "sweetp";
-  src: url("../../webfonts/sweetp.otf");
-}
-.text-logo {
-  font-family: "sweetp" !important; 
-  font-size: 1.6875rem !important;
-  font-weight: normal;
 }
