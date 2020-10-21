@@ -1,9 +1,8 @@
+/* zoom amiation */
 .animation-zoom {
   -webkit-animation: zoom 1500ms linear infinite both;
   animation: zoom 1500ms linear infinite both;
 }
-
-/* Generated with Bounce.js. Edit at http://bouncejs.com#%7Bl%3A1%2Cs%3A%5B%7BT%3A%22c%22%2Ce%3A%22s%22%2Cd%3A1500%2CD%3A0%2Cf%3A%7Bx%3A1%2Cy%3A1%7D%2Ct%3A%7Bx%3A1.5%2Cy%3A1.5%7D%2Cs%3A3%2Cb%3A10%7D%5D%7D */
 
 @keyframes zoom { 
   0% { -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); }
@@ -177,7 +176,7 @@
   100% { -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); } 
 }
   
-/* go top buttom animation*/
+/* go top button animation*/
 .animation-go-top {
   -webkit-animation: gotop 5500ms linear infinite both;
   animation: gotop 5500ms linear infinite both;
