@@ -38,3 +38,11 @@ hr.light {
   font-size: 1.6875rem !important;
   font-weight: normal;
 }
+.back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  display: none;
+  font-size: 2.5rem;
+  color: $pink-color-dark;
+}
