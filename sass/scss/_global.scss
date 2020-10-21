@@ -13,7 +13,13 @@ html {
   font-size: 1.6875rem !important;
   font-weight: normal;
 }
-
+@font-face {
+  font-family: 'grandstander';
+  src: url("../../webfonts/Grandstander.ttf");
+} 
+.grandstander-font {
+  font-family: "grandstander";
+}
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
